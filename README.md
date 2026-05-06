@@ -7,3 +7,6 @@ Neil Yang
 1. No because writing and sending a message involves multiple layers, the frontend to take in the text and a network request to send it, then a backend server to process and database for storage then another request to deliver to the user. This alone cannot be tested isolated
 
 2. Yes because it's a specific feature that does not depend on any other layers. It's very possible to write test cases for the message length and to isolate it as opposed to a whole network of interactions
+
+[Explore Page](https://neiljya.github.io/Lab5_Starter/explore.html)
+[Expose Page](https://neiljya.github.io/Lab5_Starter/expose.html)
